@@ -1,2 +1,3 @@
 # hello-world
 Just a test to see how repositories work
+Finding my way through GitHub...
